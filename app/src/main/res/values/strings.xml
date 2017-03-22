@@ -4,4 +4,6 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="Fusca">Fusca</string>
+    <string name="carro1">Carro 1</string>
+    <string name="carro2">Carro 2</string>
 </resources>
