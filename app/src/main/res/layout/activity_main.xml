@@ -20,7 +20,8 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/carro2"/>
+        android:text="@string/carro2"
+        android:onClick="exibirCarro2"/>
 
     <FrameLayout
         android:layout_width="match_parent"
